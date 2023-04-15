@@ -1,16 +1,12 @@
-### Hi there 👋
+🎓 Data Science student @ WUT  
+🔬 active member of [AI Science Society "Golem"](https://github.com/KNSI-Golem)  
+🐧 Linux enjoyer  
 
-<!--
-**Filip-Sz/Filip-Sz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### skills
+`Machine Learning` `python` `Jave` `R` `Mathematics`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### projects
+- [Predicting chess endgame results](https://github.com/Filip-Sz/Chess_endgame_king_rook_ML_project) `Machine Learning` `Python`
+- [GUI Application in Java using API from Polish National Bank](https://github.com/Filip-Sz/Polish_National_Bank_Rest_API_Application) `Java` `REST API`
+- [Dashboard about phone time activity](https://github.com/Filip-Sz/Phone_activity_dashboard) `R` `Shiny`
+- [Predicting mortality of ICU patients]() `Machine Learining` `Python`
