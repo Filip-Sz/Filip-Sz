@@ -1,6 +1,6 @@
 ### About me
-🎓 Data Science student @ WUT  
-🔬 active member of [AI Science Society "Golem"](https://github.com/KNSI-Golem)  
+🎓 BCs Data Science student at Warsaw University of Technology  
+🔬 active member of [AI Science Society "Golem"](https://github.com/KNSI-Golem) 
 🐧 Linux enjoyer  
 
 ### Skills
