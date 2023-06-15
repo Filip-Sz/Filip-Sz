@@ -13,5 +13,6 @@
 - [Predicting mortality of ICU patients]() `Machine Learining` `Python`
 
 ### :trophy: Achievements
-- 2nd place in hackathon Supervision Hack 2022 in detecting phishing websites using ML techniques
+- 1<sup>st</sup> place in hackathon Supervision Hack 2023 in detecting not legit adds on websites and facebook using ML techniques
+- 2<sup>nd</sup> place in hackathon Supervision Hack 2022 in detecting phishing websites using ML techniques
 - Mentor at BEST Hacking League 2023 hackathon
