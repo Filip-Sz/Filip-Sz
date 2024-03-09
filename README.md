@@ -1,12 +1,12 @@
 ### About me
-🎓 BCs Data Science student at Warsaw University of Technology  
+🎓 MSc Data Science student at Warsaw University of Technology  
 
-🔬 active member of [AI Science Society "Golem"](https://github.com/KNSI-Golem)
+🔬 active member of [AI Science Society "Golem"](https://github.com/KNSI-Golem), head of lectures and bootcamps
 
-🐧 Linux enjoyer  
+🐧 Linux enjoyer
 
 ### Skills
-`Machine Learning` `python` `Jave` `R` `Mathematics`
+`Machine Learning` `Python` `Jave` `R` `Mathematics`
 
 ### Projects
 - [Predicting chess endgame results](https://github.com/Filip-Sz/Chess_endgame_king_rook_ML_project) `Machine Learning` `Python`
